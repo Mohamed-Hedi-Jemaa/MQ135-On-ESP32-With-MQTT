@@ -1,4 +1,4 @@
-# Connect MQ135 Air Quality Sensor and ESP32 to the Cloud over MQTT
+# Connect MQ135 Air Quality Sensor and ESP32 to With MQTT
 Air Quality is deteriorating day by day and Air pollution has become a common phenomenon everywhere. Specially in the urban areas, the inevitable increase in industries and urbanization would add up to make it worse.
 
 The MQ135 Gas sensors are used in air quality control systems and are suitable for detecting gases such as CO2,  Smoke, NH3, NOx, Alcohol, Benzene, etc.
